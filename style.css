@@ -1,0 +1,216 @@
+html, body {
+  height: 100%;
+  width: 100%;
+
+}
+.active {
+  color: #10C9C3;
+}
+.jumbotron {
+ background: url("images/aidan-hancock-8RU4OuA6Yug-unsplash.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+  font-family: Montserrat
+}
+button {
+  background: #10C9C3;
+  border-radius: 0%
+}
+
+p{
+  font-family: Montserrat;
+}
+
+.container-bg {
+  background: #10C9C3;
+}
+.aboutUs1Style {
+  font-family: Montserrat;
+}
+.grey-background {
+  background: #F5F5F5;
+}
+
+h4{
+  padding-left: 500px;
+  padding-right: 500px;
+  color: #787878;
+}
+
+.progress {
+  height: 6px;
+}
+.progress-bar {
+  background-color: #10C9C3;
+}
+
+.container.bg{
+  background-color: #10C9C3;
+}
+
+h3{
+  font-family: Montserrat;
+}
+
+.robinegg-background{
+  background-color: #10C9C3;
+  color: white;
+  font-family: Montserrat;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    margin-bottom: 40px;
+  font-family: Montserrat;
+}
+
+h6{
+  font-family: Montserrat;
+  color: #787878
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+    background-color: #10C9C3
+    }
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+.card{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.col-md-6{
+  text-align: center;
+}
+
+.pr-footerSection{
+    background-color: #141414;
+    height: 17.75rem; color: #fff;
+   
+}
+
+.pr-footerSection-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 75%;
+}
+
+.pr-footerSection-left{
+    width: 40%;
+}
+
+.pr-footerSection-leftItem h3{
+    font-size: 1.125rem;
+    letter-spacing: .01125rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600
+}
+
+.pr-footerSection-leftItem p{
+    font-size: 0.9175rem;
+    letter-spacing: .0046875rem;
+
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 300;
+    color: #cccccc
+}
+
+.pr-footerSection-right{
+    width: 60%
+}
+
+.pr-footerSection-right--emailPhone{
+    font-size: 0.9175rem;
+    letter-spacing: .0046875rem;
+
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 300;
+    color: #cccccc
+}
+
+.pr-footerSection-right--links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.pr-footerSection-right--links div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3.5rem
+}
+
+.pr-footerSection-right--links div a{
+    color: white;
+}
+
+.pr-footerSection-right--links div a:hover{
+    color: #00cccc;
+}
+
+#services{
+  background-color: white;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #181818;
+}
+
+.container:hover .overlay {
+  opacity: .8;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.center {
+margin: auto;
+width: 80%;
+padding: 10px;
+}
+
+.card-body{
+  font-family: Montserrat;
+}
+
+.card-text{
+  color: #787878;
+}
+
+.quote{
+  font-family: Monterrat;
+}
